@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/814d6f78-6e33-4f42-8529-c29f999beaee/AppServices/subscriptions/814d6f78-6e33-4f42-8529-c29f999beaee/resourceGroups/gic/providers/Microsoft.Web/sites/reactJSaspnet"
+}
